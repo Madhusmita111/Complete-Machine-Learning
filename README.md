@@ -8,7 +8,7 @@ A structured and comprehensive repository covering **Machine Learning, Deep Lear
 
 This repository focuses on building a **strong conceptual foundation in Machine Learning and AI**.
 
-It is designed to help you:
+It is designed to help anyone:
 
 *  Understand core concepts from basics to advanced
 *  Build strong theoretical intuition
@@ -141,7 +141,7 @@ This repository includes dedicated material for:
 
 ##  Final Note
 
-This repository is built to strengthen your **fundamentals and thinking ability in Machine Learning**,
+This repository is built to strengthen **fundamentals and thinking ability in Machine Learning**,
 which is the key to solving real-world problems and cracking technical interviews.
 
 ---
