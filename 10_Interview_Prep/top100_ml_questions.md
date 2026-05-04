@@ -650,4 +650,4 @@ Instead of compressing all context into one vector (RNN bottleneck), attention l
 
 ---
 
-*Last updated: 2025 | Maintained as part of Complete ML Notes Repository*
+*Last updated: 2026 | Maintained as part of Complete ML Notes Repository*
